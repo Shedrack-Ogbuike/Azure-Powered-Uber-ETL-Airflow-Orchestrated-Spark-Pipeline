@@ -1,0 +1,29 @@
+# Environment variables
+.env
+create-user.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+uberenv/
+
+
+
+# Artifacts / outputs
+artifacts/
+output/
+
+# Airflow logs
+logs/
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
